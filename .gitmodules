@@ -1,0 +1,3 @@
+[submodule "repoC"]
+	path = repoC
+	url = https://github.com/test-org-submodule-bot/repoC.git
